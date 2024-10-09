@@ -1,2 +1,2 @@
-# ParsElecom.PasswordPolicy
-Password policy component for .Net
+# Pars Elecom Password Policy
+Password policy component for ASP.NET
